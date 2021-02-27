@@ -27,7 +27,7 @@ python3 terminal.py
 ```
 
 ## Things to take into consideration
-The stat command works with log format as the example in the project files:
+The stat command works with log format as the example in the project files run1.log:
 ```sh
 2021-02-25-09:30:58:2000 ERROR DOING_SOMETHING2 text text text text text text text ....
 2021-02-25-09:30:59:3222 OK DOING_SOMETHING3 text text text text text text text ....
