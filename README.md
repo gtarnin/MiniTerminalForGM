@@ -17,16 +17,16 @@
 - Project includes command_utils.py to hold common utils that required by the commands
 - The main module is terminal.py which take care of the cli loop and script executing loop
 
-# Requierment
+## Requierments
 This project required Python 3.9 and above, no other modules required
 
-# Usage
+## Usage
 After clonning this project, open command line or terminal in the project directory
 ```sh
 python3 terminal.py
 ```
 
-# Things to take into consideration
+## Things to take into consideration
 The stat command works with log format as the example in the project files:
 ```sh
 2021-02-25-09:30:58:2000 ERROR DOING_SOMETHING2 text text text text text text text ....
