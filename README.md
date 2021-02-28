@@ -13,7 +13,7 @@
 
 - This project using the OOP and register design pattern to add new commands to the terminal app
 - Each command inherited from the command base class and register to the command factory using a decoration pattern
-- Project includes log.py to take care of the logs and command_utils.py with common utils for the commands
+- Project includes log.py to take care of the logs.
 - Project includes command_utils.py to hold common utils that required by the commands
 - The main module is terminal.py which take care of the CLI loop and script executing loop
 
